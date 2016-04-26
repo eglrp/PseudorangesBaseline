@@ -1,0 +1,11 @@
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\bin\Debug\PseudorangesBaseline.exe.config
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\bin\Debug\PseudorangesBaseline.exe
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\bin\Debug\PseudorangesBaseline.pdb
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.csprojResolveAssemblyReference.cache
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.Form1.resources
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.Properties.Resources.resources
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.csproj.GenerateResource.Cache
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.exe
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.pdb
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.Paint1.resources
+G:\C#学习\VS源代码\PseudorangesBaseline\PseudorangesBaseline\obj\Debug\PseudorangesBaseline.Paint2.resources
